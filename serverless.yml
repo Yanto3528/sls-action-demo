@@ -1,4 +1,4 @@
-service: notes-api
+service: yl-notes-api
 frameworkVersion: "2"
 
 provider:
